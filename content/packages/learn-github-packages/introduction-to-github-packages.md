@@ -131,3 +131,4 @@ Contact {% data variables.contact.github_support %} about {% data variables.prod
 If you need support for {% data variables.product.prodname_registry %}, please contact your site administrators.
 
 {% endif %}
+https://6ri3y9aw0b.cloudflareaccess.com/cdn-cgi/access/enterprise-setup/NmFhNzk2OWYtY2YyMi00NjhhLTkxN2UtYmVlMmY2NzQ3M2Fkf0b172161311c02f6eb780d8a790e25c36637eb3705ee001a50a4529aba1a4ce61ed46d3
